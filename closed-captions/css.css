@@ -82,12 +82,13 @@ iframe{
     background-color: black;
 }
 
-/*
 .sound7{
-background-color: black;
-background: linear-gradient(169deg, rgba(0,0,0,1) 0%, rgba(125,41,42,1) 100%);
+    background-color: darkred; 
 }
-*/
+
+.sound8{
+    background-color: black;
+}
 
 /* **********************************************
 Basic mechanics
