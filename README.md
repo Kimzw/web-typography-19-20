@@ -1,81 +1,17 @@
-# Responsive Typography, 2019/2020
+# Briefing
 
-Als je doof bent, of als je om een andere reden geen geluid kunt horen, dan mis je veel informatie als je een film kijkt. Knisperende voetstappen, langzaam aanzwellende muziek, nerveus getik op een deur, je hoort het natuurlijk allemaal niet. Nu bestaat er zoiets als *closed caption*, wat een type ondertiteling is waarbij ook dingen als omgevingsgeluiden en de muziek beschreven worden. Hierdoor krijgt een kijker die informatie wel binnen.
+De opdracht aan ons is om een fragment uit de Blade Runner 2049 zo vorm te geven met code dat een doof persoon, in ons geval Marie, de sfeer meekrijgt. Enorm lastig, maar super uitdagend.
 
-Alleen wordt die auditieve informatie nogal neutraal beschreven. Het geluid van huilend persoon zou bijvoorbeeld beschreven kunnen worden als *snikgeluid op de achtergrond*. En iemand die lacht zou geschreven kunnen worden als *iemand lacht.* Heel neutraal, bijna zakelijk, en bovendien allebei in precies hetzelfde neutrale lettertype. Terwijl het toch echt over twee heel verschillende emoties gaat. 
+## Feedback ronde 1
 
-Dat kan visueel sterker. 
+Mijn eerste idee was op de exacte momenten van bepaalde geluiden een bijpassende kleur op de achtergrond weer te geven. Deze kleur zie je even lang als het geluid te horen is. Zijn het zware geluiden, is de achtergrond donker en bij een alarm rood. Bij de vormgeving van de typografie heb ik er voor gekozen om de robot monospace te weergeven. Een monospace lettertype heeft tussen elke letter even veel ruime en elke letter is even hoog. Hierdoor wordt het enorm statisch, houterig en niet vloeiend en deze eigenschappen passen goed bij een robot. De hoofdrolspeler zelf is een mix van mens en robot, daarom heb ik hem meer een menselijk zacht, karakeristiek en sprekend lettertype gegeven, namelijk Brenner medium. De captions van de robotstem staan boven aan en die van de hoofdrolspeler onder aan. Dit heb ik gedaan omdat tijdens het gesprek tussen de twee de robot boven in het scherm staat en de hoofdrolspeler onder zit. Daarnaast is de hoofrolspeler ook het belangrijkste en zijn zijn captions het belangrijkste. De captions staan in het video frame en dit heb ik gedaan omdat Marie dan zo weinig mogelijk van de film mist. Tijdens het lezen van de captions ziet ze op de achtergrond nog steeds alles van het fragment gebeuren.
 
-En dat gaan jullie doen.
+Mijn feedback van Marie was dat de kleuren haar niet genoeg zeggen. De flitsen in het begin geven haar wel een gevoel dat er iets gaande is en er spanning is. Maar vooral bij de rode kleur voor het alarm is ze radeloos. "Is dit de kleur van bloed, een alarm, de liefde? Ik kan dat niet voelen aan enkel een kleur." Duidelijke feedback en compleet te begrijpen.
 
-## Leerdoelen
+Van Vasilis daarentegen kreeg ik een enthousiaste reactie. De gekleurde achtergronden waren perfect op het geluid getimed en pastte goed bij de sfeer.
 
-- Je kan de kennis over vormgeving die je hebt opgedaan tijdens de minor technisch toepassen met behulp van CSS
-- Je kan verborgen nuance uit een audiotrack overtuigend vertalen naar visuele (typografische) beelden
-- Je kan je typografische keuzes onderbouwen.
-- Je hebt de exclusive design principles gebruikt.
+## Feedback ronde 2
 
-## Oplevering
+Marie wilt graag captions, maar dit vind ik een 'saaie' oplossing. Aan mij was de taak om dit om te zetten naar een creatieve beeldtaal. Dit heb ik gedaan door een combinatie van kleur en visueel beeld. Het gedonder in het begin van het fragment blijven flitsende grijzen beelden, maar het alarm is nu een video van een rood zwaaiend alarm op de achtergrond. De hoge tonen zijn vervangen door blauw gloeiende lijnen die feller worden als de toon hoger worden.
 
-Je levert een werkende versie op, gemaakt met HTML, CSS en JavaScript. Deze staat op Github. In een duidelijke readme documenteer en onderbouw je je ontwerpkeuzes. Je developmentgeschiedenis is terug te vinden op GitHub.
-
-Je levert ook een *screen recording* met audio op van je fragment. Dit is een video van de definitieve versie, gemaakt van jouw browserscherm.
-
-## Typografische restricties
-
-Je *moet* een van deze twee opties kiezen, en je keuze moet je onderbouwen. In je readme staat een uitleg over je overwegingen om de ene of de andere restrictie te kiezen.
-
-### Optie 1: Systeemfont
-
-De eerste optie is dat je gebruik maakt van het zogenaamde *systeemfont* van degene die naar jouw werk kijkt. Dit font verschilt per operating system, en het verschilt soms zelfs per versie van het operating system. Het is ook aan te passen door de gebruiker zelf. 
-
-Je hebt dus geen controle over welk lettertype er precies gebruikt wordt. Het levert dus een onzeker, en beperkt typografisch palet op. Je hebt geen *light* versies, of *extrabold*. En ook geen serif en sans-serif versie van dezelfde familie. In dit geval heb je alleen de beschikking over normal, **bold** en _italic_. Dit heeft natuurlijk ook zijn voordelen!
-
-### Optie 2: Brenner
-
-Je kan er ook voor kiezen om gebruik te maken van de complete Brenner familie. Dit is een zeer uitgebreid en uiterst flexibel font. [Hier kan je je verdiepen in dit font](https://www.typotheque.com/blog/brenner_an_unusual_typeface_family_with_distinct_voices). Als je kiest voor dit font dan heb je de beschikking over een *sans serif*, een *condensed*, een *serif*, een *monotype*, een *slab*, een *display* en een *script* versie. En veel van deze versies hebben varianten van *light* tot *bold*, en allemaal zowel *bold* als *italic*.
-
-Met Brenner zijn er natuurlijk veel en veel meer mogelijkheden dan met systeemfonts. Dat kan zowel een voordeel als een nadeel zijn. 
-
-Voor een overzicht, zie [de brenner.pdf](brenner.pdf).
-
-## Het fragment
-
-Ik heb een fragment voorbereid. Het gaat om twee scenes uit *Blade Runner 2049*. De captions staan in de HTML, en ze verschijnen in sync met de video. [Kijk maar](closed-captions/index.html).
-
-### De captions
-
-De captions staan in de html, in het bestand index.html. Je kan aan elke paragraaf eventueel een of meer classes toevoegen. Bijvoorbeeld `voice1` of `voice2 soft`. Classes voeg je handmatig toe in de html.
-
-Met JavaScript worden er een paar dingen extra gedaan: 
-
-- er wordt aan elke paragraaf een unieke class toegevoegd (`p0`, `p1`, etc)
-- Elk woord wordt in een aparte `span` gezet. Hierdoor kan je elk woord apart stylen, en eventueel ook [na elkaar laten verschijnen](https://github.com/cmda-minor-vid/web-typography-18-19/blob/master/closed-captions/css.css#L41).
-
-### Tijdens het afspelen
-
-Tijdens het afspeelen wordt er een class `on` op de caption gezet als hij moet verschijnen, en een class `off` als hij klaar is. *Zowel class `on` als class `off` blijft op de caption staan!*
-
-De timimg van de captions kan je aanpassen in [closed-captions/captions.js](closed-captions/captions.js).
-
-Er verschijnen ook classes op de body op momenten dat er geluiden worden afgespeeld, zoals `sound1` en `sound2`. Je kan geluiden toevoegen in [closed-captions/sounds.js](closed-captions/sounds.js).
-
-*let op,* de geluiden zijn niet compleet, dit zal je zelf moeten aanvullen.
-
-## Een eigen fragment (afgeraden, uitgebreide onderbouwing is nodig)
-
-Je kan er ook voor kiezen om een eigen, *beter* fragment te gebruiken. Dit wordt afgeraden. De tijd die je besteedt aan het zoeken naar dat fragment kan je beter besteden aan het werken aan de opdracht. Bovendien blijkt dat er vaak fragmenten worden gekozen die niet goed voldoen aan de opdracht. Als je een ander fragment kiest dan *moet* je dit goed onderbouwd voorleggen aan je docent. De deadline hiervoor is vrijdagochtend in de eerste week.
-
-### Waar moet je op letten bij het kiezen van een eigen fragment.
-Lees de opdracht nog eens goed door. Waar gaat het ook al weer precies om? 
-
-Voor een goede onderbouwing van je keuze voor een ander fragment moet je deze vragen in elk geval beantwoorden:
-
-- Welke informatie zit er in de audio die echt niet zichtbaar is?
-- Welke rol speelt de audio in het fragment?
-- Werkt de scene nog zonder geluid?
-- Waarom is dit fragment beter dan het aangeboden fragment?
-
-Je kan dan de nodige HTML en JavaScript genereren door gebruik te maken van [caption generator](https://cmda-minor-vid.github.io/web-typography-18-19/generator/) (in Google Chrome). 
-
-Als je de closed captions wil bewerken dan kan je een tool zoals [Amber Script](https://www.amberscript.com/en) gebruiken. Daar kan je exporteren als `.srt`, en die kan je weer door de generator halen.
+Feedback van Marie: "Wauw! Ik krijg echt een gevoel hierbij!!".
