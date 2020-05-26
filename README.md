@@ -34,4 +34,10 @@ Van Vasilis kreeg ik de tip om de lijnen van de hoge tonen nog meer te laten spr
 
 ## Ontwerp 3
 
+### Iteraties
+Op basis van de gekregen feedback heb ik eerst gekeken naar de sfeer. Ik heb de geluiden nog nauwkeuriger laten samenkomen met de sfeer. Zo bewegen de blauwe gloedlijnen beter mee op het geluid en is de timing van het einde vand de goedkeuring van de eerste test nog exacter.
+Daarnaast liepen de captions nog buiten het kader van de video. Dit heb ik op kunnen lossen door een width te geven.
+
+### Toevoegingen
+Aan het laatste deel van het fragment had ik nog niks gedaan omdat ik eerst zeker wilde weten of mijn werkwijze en ontwerp goed werkten voor Marie. Dit laatste deel ben ik pas gaan verder ontwerpen in dezelfde stijl toen ik positieve feedback kreeg over mijn aanpak. De tweede controle heeft een compleet andere sfeer dan de eerste en is veel zwaarder. Er hangt een negatieve sfeer met veel spanning. Het geluid benadrukt dit door gedonder en zware geluiden. Omdat deze beelden en sfeer compleet anders waren dan de eerste controle heb ik ervoor gekozen om deze ook compleet anders er uit te laten zien. De hoge toon is compleet weg, waardoor ik de blauwe gloedlijn ook weg heb gelaten. Om de spanning en het zware gedonder te benadrukken en laat ik verschillende donkere kleuren op de achtergrond overgaan in elkaar. Deze overgangen van kleuren heb ik op hetzelfde tempo laten bewegen als het tempo van het geluid. Op het moment dat de telefoon gaat om een melding te geven dat iets niet klopt met de test, heb ik een lage golvende lijn ontworpen in dezelfde stijl met de blauwe gloed.
 
