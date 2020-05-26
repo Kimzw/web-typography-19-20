@@ -45,6 +45,7 @@ Aan het laatste deel van het fragment had ik nog niks gedaan omdat ik eerst zeke
 Door feedback van enkele kennissen gebruikt als testpersonen heb ik nog kleine puntjes op de i gezet. Zo heb ik bij de captions van de hoofdrolspeler "-" weggehaald. En op het moment dat hij 3x Within cells interlinked moet zeggen dit verduidelijkt door de tekst per keer iets groter te maken. Dit vergroten van de tekst past ook heel goed bij de spanning die steeds groter wordt.
 
 ## Conclusie
+Dit was een super uitdagend en enorm leuk project! Niks is te gek en dat maakte het zowel lastig als makkelijk, want alles kan en alles mag, maar is wat jij maakt dan niet te simpel? Ik vind dat ik een goede combinatie heb gevonden die goed werkt en fijn oogt. Ik vond dit een mega interessant project en denk dat mijn onderzoek en uitkomst enorm nuttig kan zijn voor ontwerpers met hetzelfde doel.
 
 ## Bronnen
 
