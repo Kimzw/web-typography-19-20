@@ -23,6 +23,15 @@ Van Vasilis daarentegen kreeg ik een enthousiaste reactie. De gekleurde achtergr
 
 ## Ontwerp 2
 
-Marie wilt graag captions, maar dit vind ik een 'saaie' oplossing. Aan mij was de taak om dit om te zetten naar een creatieve beeldtaal. Dit heb ik gedaan door een combinatie van kleur en visueel beeld. Het gedonder in het begin van het fragment blijven flitsende grijzen beelden, maar het alarm is nu een video van een rood zwaaiend alarm op de achtergrond. De hoge tonen zijn vervangen door blauw gloeiende lijnen die feller worden als de toon hoger worden.
+### Iteraties
+Marie wilt graag extra captions bij de kleur-achtergronden die de sfeer beschrijven. Echter vind ik dit een 'saaie' en niet hele creatieve oplossing. Nadat Marie me het voorbeeld gaf wat rood allemaal kan betekenen voor haar, werd het duidelijk dat enkel kleur niet genoeg vertelde over de sfeer. Dit probleem heb ik aangepakt door een combinatie van kleur en visueel beeld te creëren. Het gedonder in het begin van het fragment blijven flitsende grijzen beelden, maar het alarm is nu een gif van een rood zwaaiend alarm op de achtergrond. Voor de hoge tonen heb ik blauw gloeiende lijnen ontworpen die feller worden als de toon hoger wordt.
 
-Feedback van Marie: "Wauw! Ik krijg echt een gevoel hierbij!!".
+### Feedback 2
+Marie: "Wauw! Ik krijg echt een gevoel hierbij!!". Ze was enorm enthousiast over mijn itteraties! De keuze dat mijn tekst op de video stond vond ze enorm fijn, zo mistte ze zo goed als niks van zowel de ondertiteling als de video. Ook het alarm en de gloedlijn voor die hoge tonen vond ze heel tof. Aan mij was de taak op de beelden precies te laten kloppen met de geluiden.
+
+Van Vasilis kreeg ik de tip om de lijnen van de hoge tonen nog meer te laten spreken. Door bijvoorbeeld de lijnen sneller van onder naar boven te laten lopen. Daarnaast moest ik de rest van het fragemtn verder doorvertalen in deze vormgeving.
+
+
+## Ontwerp 3
+
+
