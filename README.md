@@ -1,4 +1,5 @@
 # Web Typografie
+https://kimzw.github.io/web-typography-19-20/closed-captions/
 
 ## Briefing
 De opdracht aan ons is om een fragment uit de Blade Runner 2049 zo vorm te geven met code dat een doof persoon, in ons geval Marie, de sfeer meekrijgt. Enorm lastig, maar super uitdagend.
