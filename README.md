@@ -41,3 +41,11 @@ Daarnaast liepen de captions nog buiten het kader van de video. Dit heb ik op ku
 ### Toevoegingen
 Aan het laatste deel van het fragment had ik nog niks gedaan omdat ik eerst zeker wilde weten of mijn werkwijze en ontwerp goed werkten voor Marie. Dit laatste deel ben ik pas gaan verder ontwerpen in dezelfde stijl toen ik positieve feedback kreeg over mijn aanpak. De tweede controle heeft een compleet andere sfeer dan de eerste en is veel zwaarder. Er hangt een negatieve sfeer met veel spanning. Het geluid benadrukt dit door gedonder en zware geluiden. Omdat deze beelden en sfeer compleet anders waren dan de eerste controle heb ik ervoor gekozen om deze ook compleet anders er uit te laten zien. De hoge toon is compleet weg, waardoor ik de blauwe gloedlijn ook weg heb gelaten. Om de spanning en het zware gedonder te benadrukken en laat ik verschillende donkere kleuren op de achtergrond overgaan in elkaar. Deze overgangen van kleuren heb ik op hetzelfde tempo laten bewegen als het tempo van het geluid. Op het moment dat de telefoon gaat om een melding te geven dat iets niet klopt met de test, heb ik een lage golvende lijn ontworpen in dezelfde stijl met de blauwe gloed.
 
+### Feedback
+Door feedback van enkele kennissen gebruikt als testpersonen heb ik nog kleine puntjes op de i gezet. Zo heb ik bij de captions van de hoofdrolspeler "-" weggehaald. En op het moment dat hij 3x Within cells interlinked moet zeggen dit verduidelijkt door de tekst per keer iets groter te maken. Dit vergroten van de tekst past ook heel goed bij de spanning die steeds groter wordt.
+
+## Conclusie
+
+## Bronnen
+
+
