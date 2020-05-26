@@ -48,5 +48,5 @@ Door feedback van enkele kennissen gebruikt als testpersonen heb ik nog kleine p
 Dit was een super uitdagend en enorm leuk project! Niks is te gek en dat maakte het zowel lastig als makkelijk, want alles kan en alles mag, maar is wat jij maakt dan niet te simpel? Ik vind dat ik een goede combinatie heb gevonden die goed werkt en fijn oogt. Ik vond dit een mega interessant project en denk dat mijn onderzoek en uitkomst enorm nuttig kan zijn voor ontwerpers met hetzelfde doel.
 
 ## Bronnen
-
-
+Voor het alarm:
+https://www.youtube.com/watch?v=1kIVe1RrIAc&list=RD3W24bKxnjaw&start_radio=1
